@@ -1,0 +1,42 @@
+{
+  "name": "vercel-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "testing vercel api function folder",
+  "author": {
+    "name": "Rishi Uttam",
+    "email": "rishi@pmgrouphk.com"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "_id": "vercel-test@1.0.0",
+  "bugs": {
+    "url": "https://github.com/ricky11/vercel-test/issues"
+  },
+  "homepage": "https://github.com/ricky11/vercel-test#readme",
+  "keywords": [],
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricky11/vercel-test.git"
+  }
+}
